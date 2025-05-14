@@ -24,3 +24,6 @@ npm install nativewind
 npm install --save-dev tailwingcss@3.3.2
 
 to start it : npx tailwingcss init
+
+npx prisma migrate dev --name init  migrate the changes in database
+
